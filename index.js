@@ -13,7 +13,7 @@ function isPalindrome(word) {
 }
 
 /* 
-  Add your pseudocode here: 
+  Add your pseudocode here
   Iterate from the beginning to the middle.
       check each letter to the corresponding letter from the end.
           if any letters don't match, return false
